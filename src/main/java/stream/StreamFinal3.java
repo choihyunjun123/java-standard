@@ -1,7 +1,6 @@
-package collections.stream;
+package stream;
 
 import java.util.*;
-import java.util.stream.Stream;
 
 public class StreamFinal3 {
     public static void main(String[] args) {

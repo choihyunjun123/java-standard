@@ -1,4 +1,4 @@
-package collections.stream;
+package stream;
 
 import java.util.Comparator;
 import java.util.stream.Stream;

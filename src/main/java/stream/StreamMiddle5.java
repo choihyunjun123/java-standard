@@ -1,9 +1,7 @@
-package collections.stream;
+package stream;
 
 import java.util.Arrays;
 import java.util.OptionalDouble;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class StreamMiddle5 {
     public static void main(String[] args) {

@@ -1,7 +1,6 @@
-package collections.stream;
+package stream;
 
 import java.io.File;
-import java.sql.SQLSyntaxErrorException;
 import java.util.stream.Stream;
 
 public class StreamMiddle4 {
