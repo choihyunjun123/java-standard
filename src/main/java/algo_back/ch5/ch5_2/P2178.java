@@ -1,6 +1,5 @@
 package algo_back.ch5.ch5_2;
 
-import java.awt.*;
 import java.io.*;
 import java.util.*;
 
